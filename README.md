@@ -148,3 +148,4 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Многие ко многим:
 Пользователи - Вопросы.
+Апартамены - Удобства в номере.
