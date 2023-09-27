@@ -62,7 +62,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Дополнительные сущности для функционирования системы и их свойства:
 
-Предложение:
+1. Предложение:
 
 Апартамены (apartment_id): int.
 
@@ -76,7 +76,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Адресс (address): varchar(255).
 
-Апартаменты:
+2. Апартаменты:
 
 Тип (apartment_type): varchar(255).
 
@@ -86,7 +86,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Количество спальных мест (num_of_beds): int.
 
-Заказ:
+3. Заказ:
 
 Предложение (listing_id): int.
 
@@ -100,7 +100,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Внешний ключ, связанный с таблицей "Пользователи".
 
-Вопрос:
+4. Вопрос:
 
 Пользователь (client_id): int.
 
@@ -112,11 +112,11 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Ответ (answer_text): varchar(255).
 
-Тип апартаментов:
+5. Тип апартаментов:
 
 Название (type_name): varchar(255).
 
-Действия: 
+6. Действия: 
 
 Действие (action): varchar(255).
 
@@ -128,7 +128,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Описание (description): varchar(255).
 
-Отзывы:
+7. Отзывы:
  
 Текст (review_text): varchar(255).
 
@@ -142,7 +142,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Внешний ключ, связанный с таблицей "Предложение".
 
-Акции:
+8. Акции:
  
 Название (promotion_name): varchar(255).
 
@@ -156,7 +156,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Внешний ключ, связанный с таблицей "Предложение".
 
-Роли:
+9. Роли:
  
 Тип роли (role_type): varchar(255).
 
@@ -164,7 +164,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 Внешний ключ, связанный с таблицей "Пользователи".
 
-Удобства в номере:
+10. Удобства в номере:
 
 Название (name): varchar(255).
 
