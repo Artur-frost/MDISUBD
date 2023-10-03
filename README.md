@@ -197,5 +197,5 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 ```
 Многие ко многим:
-Апартамены - Уобства.
+Апартамены - Удобства.
 ```
