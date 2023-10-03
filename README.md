@@ -88,7 +88,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 3. Заказ:
 
-    Предложение (listing_id): int.
+Предложение (listing_id): int.
 
 Внешний ключ, связанный с таблицей "Предложение".
 
