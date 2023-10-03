@@ -90,7 +90,7 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
    Поля:
 
    ```
-   Предложение (listing_id): int.
+   Предложение (offer_id): int.
    Внешний ключ, связанный с таблицей "Предложение".
    Итоговая цена (total_price): double precision.
    Дата (order_date): date.
