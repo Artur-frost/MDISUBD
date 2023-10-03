@@ -64,16 +64,17 @@ https://drawsql.app/teams/artur-kudl/diagrams/mdisubd-1
 
 1. Предложение:
 
-Поля:
-
-...
-Апартамены (apartment_id): int.
-Внешний ключ, связанный с таблицей "Апартаменты".
-Стоимость за сутки (price_per_night): double precision.
-Дни проживания (stay_days): int.
-Страна (country): varchar(255).
-Адресс (address): varchar(255).
-...
+ Апартамены (apartment_id): int.
+ 
+ Внешний ключ, связанный с таблицей "Апартаменты".
+ 
+ Стоимость за сутки (price_per_night): double precision.
+ 
+ Дни проживания (stay_days): int.
+ 
+ Страна (country): varchar(255).
+ 
+ Адресс (address): varchar(255).
 
 2. Апартаменты:
 
